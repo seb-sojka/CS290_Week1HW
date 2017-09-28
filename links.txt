@@ -1,0 +1,2 @@
+GIT Repo: https://github.com/seb-sojka/CS290_Week1HW.git
+Node on Engineering Servers: http://flip2.engr.oregonstate.edu:7354/
